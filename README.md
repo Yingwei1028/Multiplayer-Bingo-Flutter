@@ -21,11 +21,6 @@ A real-time multiplayer Bingo game built with **Flutter** and **Firebase Realtim
 * **Backend**: Firebase Realtime Database
 * **Architecture**: Stream-based State Management
 
-## 📸 Screenshots (Optional)
-
-| Home Screen | Game Lobby | In-Game Board |
-| :---: | :---: | :---: |
-| *Add screenshot here* | *Add screenshot here* | *Add screenshot here* |
 
 ## 🚀 Getting Started
 
