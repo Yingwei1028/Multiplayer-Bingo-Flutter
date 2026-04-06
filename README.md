@@ -15,6 +15,9 @@ A real-time multiplayer Bingo game built with **Flutter** and **Firebase Realtim
 * **Automated Win Detection**: An efficient algorithm that checks for horizontal, vertical, and diagonal Bingo lines in real-time.
 * **Cross-Platform**: Designed to provide a smooth experience on both Android and iOS devices.
 
+## 📺 Video Demo
+[![Watch the video](https://youtube.com/shorts/6US6AcVmg6I)]
+
 ## 🛠️ Tech Stack
 
 * **Frontend**: Flutter (Dart)
