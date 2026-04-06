@@ -1,4 +1,4 @@
-# Multiplayer Bingo - Flutter & Firebase 🎲
+# Multiplayer Bingo - Flutter & Firebase 
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
@@ -7,7 +7,7 @@
 
 A real-time multiplayer Bingo game built with **Flutter** and **Firebase Realtime Database**. This project demonstrates the implementation of synchronized game states across multiple devices, room-based matchmaking, and automated win-condition logic.
 
-## 🌟 Key Features
+## Key Features
 
 * **Real-time Synchronization**: Seamlessly syncs game moves and marked numbers across all players using Firebase's web-socket-based listeners.
 * **Room Management**: Supports creating and joining specific game rooms via unique codes for private matches.
@@ -15,17 +15,17 @@ A real-time multiplayer Bingo game built with **Flutter** and **Firebase Realtim
 * **Automated Win Detection**: An efficient algorithm that checks for horizontal, vertical, and diagonal Bingo lines in real-time.
 * **Cross-Platform**: Designed to provide a smooth experience on both Android and iOS devices.
 
-## 📺 Video Demo
+## Video Demo
 [![Watch the video](https://youtube.com/shorts/6US6AcVmg6I)]
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend**: Flutter (Dart)
 * **Backend**: Firebase Realtime Database
 * **Architecture**: Stream-based State Management
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
