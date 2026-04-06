@@ -16,7 +16,7 @@ A real-time multiplayer Bingo game built with **Flutter** and **Firebase Realtim
 * **Cross-Platform**: Designed to provide a smooth experience on both Android and iOS devices.
 
 ## Video Demo
-[![Watch the video](https://youtube.com/shorts/6US6AcVmg6I?feature=share))]
+https://youtube.com/shorts/6US6AcVmg6I?feature=share
 
 ## Tech Stack
 
